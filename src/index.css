@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: outfit;
+}
+body{
+  background-color: hsl(30, 54%, 90%);
+  font-family: 'Outfit', sans-serif;
+}
+
+
